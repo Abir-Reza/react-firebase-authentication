@@ -4,7 +4,7 @@
 3. npm install firebase
 
 ## Step 1: (initial setup)
-1.firebase : create project
+1. firebase - create project
 2. Create web app
 3. get configuration
 4. initialize firebase
