@@ -1,3 +1,8 @@
+## Installation :
+1. npx create-react-app my-app
+2. npm install react-router
+3. npm install firebase
+
 ## Step 1: (initial setup)
 1.firebase : create project
 2. Create web app
