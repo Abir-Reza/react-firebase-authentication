@@ -12,7 +12,7 @@
 
 -----------------------
 
-## Step 2: 
+## Step 2: (SetUp component)
 1. Create Login Component
 2. Create Register Component
 3. Create Route for Login and rgeister
